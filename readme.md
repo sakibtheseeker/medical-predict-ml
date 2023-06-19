@@ -6,3 +6,6 @@ This is a machine learning project which was focused on analyzing the data from 
 ### Dataset Link: <a href="https://www.kaggle.com/datasets/mirichoi0218/insurance"> Click Here </a>
 
 ### Project Report: <a href="https://docs.google.com/document/d/1bG2WqQPtIq0PQ4dGqaowYcRV-FzwMFteZUtJegNXZC8/edit?usp=sharing">Click here</a>
+
+### Feedback
+If you have any feedback, please reach out to me at <a href="mailto:stsakib123@gmail.com">stsakib123@gmail.com</a>
